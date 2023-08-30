@@ -30,5 +30,5 @@ exercises for COMM 329
   <p><abbr title="For Your Information">F.Y.I.</abbr> the abbr tag is for abbreviations, the cite tag is for <cite>Titles of Works</cite> by some authors, you can also show that text has been <del>deleted</del> or <ins>inserted</ins>, or you can just make a <s>strikethrough</s> using the s tag.</p>
   <!--Lastly, HTML comments are hidden-->
 
-</body>
+</body><!--Type all the code ABOVE⬆︎ this line-->
 </html>
